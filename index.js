@@ -239,4 +239,4 @@ bot.on("ready", async () => {
    
    }
  });
- bot.login("NDU4NDUzOTA2OTE0MDE3MzAy.Dh0hCw.8YGo5-rZ_hVQXPf1mniMo9tInpA")
+ bot.login(bot.env.BOT_TOKEN)
