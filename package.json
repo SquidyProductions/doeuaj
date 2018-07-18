@@ -1,0 +1,22 @@
+{
+  "name": "mr.abot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^1.6.1",
+    "discord.js": "^11.3.2",
+    "edit-json-file": "^1.0.8",
+    "fs": "0.0.1-security",
+    "google-auth-library": "^1.6.1",
+    "leo-profanity": "^1.2.4",
+    "ms": "^2.1.1",
+    "no-swears": "^1.2.1",
+    "profanities": "^2.6.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "prefix": "!",
+    "channels": {
+        "welcome": "welcome_and_rules",
+        "general": "general",
+        "askagame": "ask_a-game",
+        "friendcodes": "switch_friend_codes",
+        "announcements": "announcements",
+        "mariomaker": "admin-commands"
+    },
+    "roles": {
+        "owner": "Owner",
+        "mod": "Moderator",
+        "muted": "Muted"
+    }
+}
